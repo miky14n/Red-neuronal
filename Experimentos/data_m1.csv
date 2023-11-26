@@ -1,0 +1,965 @@
+Tipo de Red,Estudiante de Tecnología,Nivel de Educación,Vive en Ciudad,Tipo de Instituto,Edad,Dispositivo,Tipo de Internet,Situación Financiera,Género,Duración de la Clase,Nivel de Adaptación
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,1-03,2
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,2
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,0,0
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,1
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,Si,Público,21-25,Computadora,Compra Megas,Media,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,2
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Media,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Buena,Masculino,1-03,2
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Público,21-25,Computadora,Compra Megas,Media,Masculino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,1-03,0
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,2
+4G,No,Escuela,No,Público,16-20,Smartphone,Compra Megas,Buena,Femenino,1-03,2
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Mala,Masculino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,1-05,Smartphone,Compra Megas,Buena,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Público,1-05,Smartphone,Compra Megas,Buena,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Masculino,0,1
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,Si,Universidad,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,3-06,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,No,Colegio,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Público,26-30,Computadora,Compra Megas,Mala,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Mala,Femenino,3-06,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,No,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Público,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Colegio,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Smartphone,Wifi,Buena,Masculino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Mala,Femenino,3-06,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+3G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Buena,Femenino,1-03,2
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Smartphone,Wifi,Buena,Masculino,1-03,2
+3G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,2
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+4G,Si,Universidad,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,Si,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Buena,Femenino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+2G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,2
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+3G,No,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,Si,Colegio,Si,Público,16-20,Tableta,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,No,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,26-30,Computadora,Compra Megas,Mala,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,0,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Femenino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+3G,Si,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+2G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Femenino,0,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,1
+3G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,3-06,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,2
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Universidad,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,3-06,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+2G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Masculino,0,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,Si,Colegio,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,2
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Colegio,Si,Público,16-20,Tableta,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,0,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,2
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,2
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Buena,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,1
+4G,Si,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+2G,Si,Universidad,No,Privado,21-25,Tableta,Wifi,Mala,Femenino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+4G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,No,Público,1-05,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Colegio,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,2
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+4G,Si,Colegio,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Compra Megas,Media,Masculino,3-06,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Público,26-30,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,2
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Buena,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Media,Femenino,1-03,2
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,3-06,2
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,1
+2G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+2G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+2G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+2G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,Si,Privado,26-30,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Media,Masculino,1-03,2
+3G,Si,Universidad,No,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Compra Megas,Mala,Femenino,0,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,1-03,2
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,26-30,Computadora,Wifi,Media,Masculino,3-06,1
+3G,No,Colegio,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,2
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Masculino,0,1
+4G,No,Universidad,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,2
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Escuela,Si,Público,11-15,Computadora,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Masculino,0,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Media,Masculino,0,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+2G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Media,Masculino,0,0
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Público,1-05,Smartphone,Compra Megas,Buena,Femenino,1-03,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Colegio,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,3-06,2
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Masculino,1-03,0
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Buena,Femenino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,Si,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,3-06,1
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Universidad,Si,Público,16-20,Computadora,Wifi,Media,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+2G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+3G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,2
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Masculino,3-06,1
+3G,Si,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,Si,Colegio,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,Si,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Universidad,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Mala,Femenino,3-06,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,No,Público,16-20,Smartphone,Compra Megas,Buena,Femenino,1-03,2
+3G,Si,Universidad,No,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Buena,Masculino,3-06,2
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Buena,Femenino,1-03,2
+3G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Buena,Masculino,1-03,2
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+2G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+2G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Público,21-25,Computadora,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Buena,Masculino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Femenino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,0,0
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Buena,Masculino,3-06,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,3-06,2
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,2
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Femenino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,Si,Universidad,No,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+2G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,2
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+2G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Público,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,1-03,2
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Masculino,1-03,2
+4G,No,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Masculino,0,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+4G,Si,Colegio,Si,Público,16-20,Tableta,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,2
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Escuela,Si,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,0,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Media,Femenino,1-03,2
+4G,No,Escuela,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,Si,Privado,16-20,Computadora,Wifi,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Privado,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+3G,No,Colegio,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,1
+4G,No,Universidad,No,Público,21-25,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+3G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,Si,Universidad,No,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,0,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,1
+4G,No,Escuela,Si,Público,11-15,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Femenino,3-06,1
+4G,No,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,0,0
+3G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Buena,Masculino,3-06,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,No,Escuela,No,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Masculino,1-03,0
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,Si,Colegio,Si,Público,16-20,Tableta,Wifi,Media,Masculino,1-03,1
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Universidad,No,Público,26-30,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Mala,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Buena,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Wifi,Media,Femenino,1-03,2
+3G,No,Escuela,No,Público,11-15,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Buena,Femenino,3-06,1
+4G,No,Colegio,No,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,1-03,0
+3G,Si,Universidad,Si,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Mala,Masculino,3-06,1
+4G,No,Colegio,No,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,16-20,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,0
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+3G,Si,Universidad,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,3-06,1
+3G,No,Escuela,Si,Privado,6-10,Smartphone,Compra Megas,Mala,Femenino,1-03,2
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,3-06,1
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,1-03,0
+3G,Si,Universidad,No,Privado,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Masculino,1-03,2
+4G,No,Universidad,Si,Público,26-30,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Mala,Femenino,0,0
+3G,Si,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Masculino,0,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Wifi,Mala,Femenino,1-03,1
+3G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Colegio,Si,Público,16-20,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Mala,Femenino,1-03,1
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Buena,Femenino,1-03,1
+3G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Mala,Masculino,3-06,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,1-03,2
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Público,26-30,Computadora,Wifi,Media,Masculino,0,0
+4G,No,Escuela,Si,Privado,11-15,Computadora,Wifi,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Buena,Femenino,1-03,2
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,Si,Colegio,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Buena,Masculino,3-06,0
+4G,No,Colegio,Si,Privado,16-20,Smartphone,Wifi,Media,Femenino,3-06,2
+4G,No,Escuela,Si,Público,11-15,Smartphone,Wifi,Media,Femenino,1-03,0
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,No,Público,1-05,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,Si,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,3-06,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Buena,Masculino,1-03,1
+3G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,3-06,1
+4G,Si,Colegio,Si,Público,16-20,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Público,6-10,Smartphone,Compra Megas,Media,Masculino,0,0
+4G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Media,Masculino,1-03,1
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Wifi,Mala,Masculino,0,0
+4G,Si,Colegio,No,Público,21-25,Smartphone,Compra Megas,Mala,Masculino,0,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Mala,Femenino,0,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,0,0
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,No,Público,1-05,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,Si,Universidad,Si,Privado,26-30,Smartphone,Wifi,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Masculino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,26-30,Smartphone,Wifi,Media,Femenino,0,0
+4G,Si,Universidad,Si,Público,26-30,Smartphone,Wifi,Buena,Masculino,1-03,2
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Universidad,Si,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+3G,Si,Universidad,Si,Privado,21-25,Computadora,Wifi,Mala,Masculino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,Si,Colegio,No,Público,16-20,Smartphone,Wifi,Buena,Masculino,0,0
+4G,No,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Femenino,0,0
+4G,No,Universidad,Si,Privado,21-25,Tableta,Wifi,Buena,Femenino,3-06,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Mala,Femenino,3-06,1
+3G,No,Escuela,No,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,0,0
+3G,Si,Universidad,Si,Público,21-25,Smartphone,Wifi,Media,Masculino,1-03,0
+4G,No,Universidad,Si,Público,26-30,Smartphone,Compra Megas,Media,Femenino,0,0
+4G,Si,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,No,Privado,21-25,Smartphone,Wifi,Media,Femenino,1-03,1
+3G,No,Colegio,No,Privado,16-20,Smartphone,Compra Megas,Media,Femenino,0,0
+2G,No,Universidad,No,Público,21-25,Smartphone,Compra Megas,Media,Femenino,1-03,0
+3G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+3G,No,Escuela,Si,Privado,11-15,Smartphone,Compra Megas,Media,Femenino,1-03,1
+4G,No,Universidad,Si,Público,21-25,Smartphone,Compra Megas,Media,Masculino,0,0
+3G,No,Universidad,Si,Privado,21-25,Smartphone,Compra Megas,Media,Masculino,1-03,1
+4G,No,Escuela,Si,Privado,1-05,Smartphone,Compra Megas,Media,Femenino,1-03,1
