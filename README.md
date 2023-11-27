@@ -1,0 +1,1 @@
+Los Experimentos se realizaron en la carpeta Experimentos se tomo esta decision porque el notebook principal se estaba sobrecargando
